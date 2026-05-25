@@ -11,7 +11,7 @@ import pandas as pd
 
 COUNTRIES  = ['USA', 'IND', 'DEU']
 START_YEAR = 2000
-END_YEAR   = 2023
+END_YEAR   = 2025
 YEARS      = range(START_YEAR, END_YEAR + 1)
 
 # World Bank indicator codes
